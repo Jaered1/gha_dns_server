@@ -1,0 +1,4 @@
+zone "saiou.lan" {
+    type master;
+    file "/etc/bind/db.adminsaiou.lan";
+};
